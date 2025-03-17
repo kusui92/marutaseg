@@ -5,7 +5,7 @@ Welcome to the **MarutaSeg**, a collection of annotated images designed for inst
 [[`BibTeX`](#CitingThisPaper)] [[`Paper`](https://doi.org/10.1080/14942119.2024.2336856)]
 
 <div align="center">
-  <img src="https://github.com/norlab-ulaval/logpiles_segmentation/blob/main/images/graphical_abstract.png" width="100%" height="100%"/>
+  <img src="fig2a.jpg" width="100%" height="100%"/>
 </div><br/>
 
 
