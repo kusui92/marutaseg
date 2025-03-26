@@ -2,19 +2,19 @@
 
 Welcome to the **MarutaSeg**, a collection of annotated images designed for instance segmentation of logs in forestry applications. This dataset supports research and development in forestry automation.
 
-[[`BibTeX`](#CitingThisPaper)] [[`Paper`](https://doi.org/10.1080/14942119.2024.2336856)]
+[[`BibTeX`](#citation)] [[`Paper`](https://doi.org/10.1080/14942119.2024.2336856)]
 
 <div align="center">
-  <img src="fig2a.jpg" width="100%" height="100%"/>
+  <img src="marutaseg_example.png" width="100%" height="100%"/>
 </div><br/>
 
 
 ## Dataset Structure
 
-- `images/`: Contains images of logs.
-- `annotations/`: JSON files with segmentation annotations in COCO format.
+- `/images`: Contains images of logs.
+- `annotations.json`: JSON files with segmentation annotations in COCO format.
 
-This dataset includes 2000 images in total.
+This dataset includes 1732 annotations of 227 images in total.
 The annotation class is "sugi (*cryptomeria japonica*)" only; tree species were not classified.
 Note that we used 7466 log annotations for a total of 3262 images in the paper. However, the data were selected due to the rights of the field.
 
