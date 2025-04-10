@@ -21,7 +21,7 @@ Note that we used 7466 log annotations for a total of 3262 images in the paper. 
 
 ## License
 
-The LogSeg dataset is released under the **CC BY 4.0** license.  
+The MarutaSeg dataset is released under the **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** license.  
 
 ## How to Download the Dataset
 
