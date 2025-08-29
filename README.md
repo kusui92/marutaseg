@@ -25,7 +25,7 @@ The MarutaSeg dataset is released under the **[CC BY 4.0](https://creativecommon
 
 ## How to Download the Dataset
 
-Download the whole data from [here](https://github.com/kusui92/marutaseg.git).
+Download the whole data from [here](https://www2.ffpri.go.jp/labs/marutaseg.zip).
 
 
 ## Citation
